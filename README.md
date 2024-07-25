@@ -2,10 +2,10 @@
 
 
 ### Demo
-[https://img.131213.xyz](https://img.131213.xyz/)
+[https://img.navai.sbs](https://img.navai.sbs/)
 
 ### 测试
-[https://testimg.131213.xyz/](https://testimg.131213.xyz/)
+[https://img.navai.sbs/](https://img.navai.sbs/)
 > 测试账号：admin
 
 > 测试密码：admin
